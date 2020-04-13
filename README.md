@@ -15,7 +15,7 @@ MATLAB version: R2018b or above
 
 ## Installation
 ```
-  * Clone this repo in your local machine usine 'git clone https://github.com/ayush003/DoF-guided-reflection-removal.git'
+  * Clone this repo in your local machine usine 'git clone https://github.com/sid888gaur/DepthofField-guided-reflection-removal.git'
 ```
 
 ## Running tests
